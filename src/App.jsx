@@ -3,6 +3,7 @@ import './App.css'
 import TarjetaUno from './componentes/TarjetaUno'
 import TarjetaDos from './componentes/TarjetaDos'
 import TarjetaTres from './componentes/TarjetaTres'
+import TarjetaCuatro from './componentes/TarjetaCuatro'
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <TarjetaUno />
       <TarjetaDos />
       <TarjetaTres />
+      <TarjetaCuatro />
     </div>
   )
 }
