@@ -7,3 +7,14 @@
   justify-content: center;
   gap: 15px;
 }
+
+.letrita {
+  display: flex;
+  flex-direction: row;
+  align-items: start;
+  justify-content: start;
+}
+
+.nombre {
+  color: white;
+}
